@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###🧠 What I'm About
+### 🧠 What I'm About
 - 🧩 I thrive on solving complex challenges—algorithms are my playground
 - 📊 Fascinated by the power of data and how it can transform ideas into insights
 - 🤖 Deep diving into Large Language Models—unpacking their magic, one token at a time
@@ -18,7 +18,7 @@
 - Your hottest take on Python vs Java 😄
 
 ### 📫 Connect with Me
-- 📨 Email: your.email@example.com
+- 📨 Email: aaaronebinezerarun@gmail.com
 - 💼 LinkedIn: [AARON EBINEZER ARUN A](https://www.linkedin.com/in/aaron-ebinezer-arun-a-1725a82a4/)
 - 📈 Check out my progress:[AARON_EBINEZER_ARUN_A](https://leetcode.com/u/AARON_EBINEZER_ARUN_A/)
 
